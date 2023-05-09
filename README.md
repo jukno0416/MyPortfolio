@@ -1,2 +1,2 @@
-# MyPortfolio-Thommy
-thommy
+# MyPortfolio-Thomas
+thomas
